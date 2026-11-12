@@ -1,33 +1,33 @@
 # Goal 3 — Software Development Tools and Practices
 
-## Goal and rationale
+## Why I chose this goal
 
-My goal is to strengthen my use of software development tools and practices, including Git and GitHub, testing, debugging, documentation, and Docker. These practices are important for producing code that can be maintained, reviewed, reproduced, and improved collaboratively.
+I want to improve the way I develop, test, and organise software. My learning plan focuses on Git and GitHub, testing, debugging, documentation, and Docker. These skills are useful because they make projects easier to maintain and help other people understand the work.
 
-## Existing programming evidence
+## My programming experience
 
 ### Python calculator
 
-I have developed a calculator using Python. This project demonstrates practical programming experience and the ability to implement a small application using code. It provides a useful starting point for further work on modular design, validation, test cases, and documentation.
+I have developed a calculator using Python. This gave me practical experience writing code for a small application and implementing its logic. It is a project I can build on by adding more structured tests and improving the way the code is organised.
 
 ### Java card game
 
-I have also developed a card game using Java. This project provided experience implementing application logic in another programming language. It is relevant to continued growth in debugging, organising program components, and understanding how a larger application is assembled.
+I have also developed a card game using Java. Working in a different language helped me practise implementing application logic and understand how different parts of a program work together.
 
-### GitHub portfolio organisation
+### GitHub portfolio
 
-This professional learning portfolio is maintained in GitHub. The repository separates the learning log from goal-based evidence pages, and changes are recorded through commits. This provides a practical example of organising project documentation and tracking revisions in a version-controlled environment.
+I am using GitHub to organise this professional learning portfolio. The pages are separated by goal, and changes are tracked through commits. This has helped me keep the material organised and gives me a place to collect evidence of my development.
 
 ## Reflection
 
-My programming projects give me a foundation, but software development practice involves more than writing code that works once. Testing should verify expected behaviour and edge cases; debugging should use a systematic approach to isolate faults; documentation should help another person understand and run the project; and version control should make changes traceable.
+I have some programming experience, but I know that a project is not finished simply because it runs. Testing helps check that the program behaves as expected, debugging helps identify and fix problems, and documentation makes it easier for another person to use the project. Version control also helps keep track of changes.
 
-I am developing these practices and recognise the need for stronger evidence of a consistent workflow. The repository demonstrates organisation and versioned documentation, while the calculator and card game demonstrate programming experience. This portfolio does not claim that those projects use Docker or have comprehensive automated test suites.
+I am still working on becoming more consistent with these practices. The projects I have described demonstrate programming experience, but I have not claimed that they include comprehensive automated testing or Docker.
 
-## Progress assessment
+## Progress
 
-**Status: Developing, supported by programming projects and repository organisation.**
+**My progress is developing, supported by my programming projects and GitHub portfolio.**
 
-## Continuing professional development
+## What I want to work on next
 
-I will apply a structured Git workflow to a future project, use meaningful commit messages, add automated tests for key functions, document setup and usage, and explore containerisation with Docker. The aim is to produce a project that another developer can reproduce and review, not merely a code file.
+For a future project, I want to use a more structured Git workflow, write meaningful commit messages, add tests for important functions, and include clear setup instructions. I also want to explore Docker so that I can understand how to make an application easier to run in a consistent environment.
