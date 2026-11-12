@@ -1,14 +1,14 @@
-# Professional Learning Evidence Index
+# Professional Learning Evidence
 
-This portfolio presents an AI-generated progress artifact for comparison with my manually prepared work. The evidence pages are written as complete reflective narratives and distinguish known coursework/project experience from skills that remain in development.
+This portfolio is the AI-generated version prepared for comparison with my manually completed work. The pages describe my relevant learning and experience in a first-person reflection, while being careful not to claim practical activities that are not supported by the information available.
 
-## Goal pages
+## Goal evidence
 
-1. [Ethical and Responsible AI, especially Indigenous Communities](ethical-and-responsible-ai.md) — DesignR coursework connection and ethical reflection.
-2. [Foundational Cybersecurity](cybersecurity.md) — foundational concepts and practical development needs.
-3. [Software Development Tools](software-development-tools.md) — Python calculator, Java card game, and GitHub portfolio organisation.
-4. [AI Application Integration](ai-application-integration.md) — AI Researcher prompt/model selection experience and identified API integration gap.
+- [Ethical and Responsible AI, with a Focus on Indigenous Communities](ethical-and-responsible-ai.md) — reflection on DesignR coursework and responsible-AI considerations.
+- [Foundational Cybersecurity Skills](cybersecurity.md) — key concepts learned and how I plan to apply them.
+- [Software Development Tools and Practices](software-development-tools.md) — Python calculator, Java card game, and GitHub portfolio.
+- [AI Application Integration](ai-application-integration.md) — prompt improvement and model selection experience, along with the API integration skill I still need to develop.
 
-## Evidence interpretation
+## How to read the progress assessments
 
-The portfolio draws on known coursework and project context. It does not invent completed certifications, learning-hour totals, API deployments, Docker implementations, security audits, or testing suites. Progress assessments are therefore deliberately calibrated to the evidence described in each page.
+The assessments are based on the documented coursework, projects, and work context. I have not added claims about certifications, deployed API projects, Docker implementations, security audits, or comprehensive test suites without evidence. The aim is to give a realistic account of my current progress and identify concrete next steps.
