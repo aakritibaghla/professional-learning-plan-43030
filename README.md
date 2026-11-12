@@ -7,15 +7,15 @@
 
 ## About this portfolio
 
-This portfolio brings together the progress I have made towards the professional development goals in my original learning plan. I chose these goals because I want to build more than just technical knowledge during my degree. I also want to understand how to develop AI systems that are useful, secure, and responsible.
+This portfolio brings together the progress I have made towards the professional development goals in my original learning plan. I chose these goals because I want to build more than technical knowledge during my degree. I also want to understand how to develop systems that are useful, secure, and responsible.
 
-This is the AI-generated version of my portfolio, prepared for comparison with the version I completed manually. I have based it on my known coursework, projects, and work experience, and have tried to be realistic about what I have and have not demonstrated yet.
+The reflections draw on my university coursework, programming projects, and work experience. I have aimed to give an honest account of what I have learned so far, where I have gained practical experience, and which skills I still need to develop.
 
 ## My learning goals and current progress
 
 | Goal | Progress so far | Relevant experience |
 |---|---|---|
-| Ethical and responsible AI, especially Indigenous Communities | I have developed an understanding of the main issues, but still need to apply them more consistently in practical work. | DesignR coursework involving AI-generated Indigenous imagery and ethical considerations; Professional Practice learning |
+| Ethical and responsible AI, especially Indigenous Communities | I have developed an understanding of the main issues, but still need to apply them more consistently in practical work. | DesignR coursework involving Indigenous Australian imagery and ethical considerations; Professional Practice learning |
 | Cybersecurity | I have a foundation in the key concepts and need more hands-on practice. | Introductory learning about authentication, access control, vulnerabilities, secure coding, and data protection |
 | Software development tools | I have programming experience and am continuing to improve my development workflow. | Python calculator, Java card game, and organising this portfolio using GitHub |
 | AI application integration | This is still an area I need to develop further. | My AI Researcher role has involved prompt improvement and model selection, although I have not documented a complete API integration here. |
@@ -31,10 +31,10 @@ This is the AI-generated version of my portfolio, prepared for comparison with t
 
 ## Overall reflection
 
-Looking back at these goals, I can see how they fit together. My programming projects and AI-related work have given me a starting point, but I still have areas where I need to build stronger practical experience. In particular, I want to get more comfortable integrating AI models into applications, testing my code properly, and following a consistent development process.
+Looking back at these goals, I can see how they fit together. My programming projects and work experience have given me a starting point, but I still have areas where I need to build stronger practical experience. In particular, I want to get more comfortable integrating models into applications, testing my code properly, and following a consistent development process.
 
-I also want to keep responsible AI in mind as I develop technically. It is important to think about the data being used, who could be affected by the system, and whether the results are fair and appropriate. My next step is to work on a small, well-documented AI application that lets me practise several of these skills together.
+I also want to keep responsible development in mind as I improve technically. It is important to think about the data being used, who could be affected by a system, and whether the results are fair and appropriate. My next step is to work on a small, well-documented application that lets me practise several of these skills together.
 
 ## Evidence and accuracy
 
-This portfolio is the AI-generated comparison version of my work. It uses the coursework, projects, and experience available for this task. I have not included claims about certifications, completed API deployments, Docker projects, security audits, or testing suites that are not supported by the information available.
+The progress described in this portfolio is based on the coursework, projects, and work experience I can identify. I have kept the reflections realistic and have not included claims about certifications, completed API deployments, Docker projects, security audits, or testing suites that I have not demonstrated.
