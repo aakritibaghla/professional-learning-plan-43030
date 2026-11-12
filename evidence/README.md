@@ -1,6 +1,6 @@
 # Professional Learning Evidence
 
-This portfolio is the AI-generated version prepared for comparison with my manually completed work. The pages describe my relevant learning and experience in a first-person reflection, while being careful not to claim practical activities that are not supported by the information available.
+This section brings together reflections on my learning and experience across the four goals in my professional learning plan. Each page describes relevant coursework or practical experience, assesses my current progress, and identifies areas I want to improve.
 
 ## Goal evidence
 
@@ -11,4 +11,4 @@ This portfolio is the AI-generated version prepared for comparison with my manua
 
 ## How to read the progress assessments
 
-The assessments are based on the documented coursework, projects, and work context. I have not added claims about certifications, deployed API projects, Docker implementations, security audits, or comprehensive test suites without evidence. The aim is to give a realistic account of my current progress and identify concrete next steps.
+The assessments are based on my documented coursework, projects, and work experience. I have not added claims about certifications, deployed API projects, Docker implementations, security audits, or comprehensive test suites without evidence. The aim is to give a realistic account of my current progress and identify concrete next steps.
