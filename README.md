@@ -35,6 +35,3 @@ Looking back at these goals, I can see how they fit together. My programming pro
 
 I also want to keep responsible development in mind as I improve technically. It is important to think about the data being used, who could be affected by a system, and whether the results are fair and appropriate. My next step is to work on a small, well-documented application that lets me practise several of these skills together.
 
-## Evidence and accuracy
-
-The progress described in this portfolio is based on the coursework, projects, and work experience I can identify. I have kept the reflections realistic and have not included claims about certifications, completed API deployments, Docker projects, security audits, or testing suites that I have not demonstrated.
