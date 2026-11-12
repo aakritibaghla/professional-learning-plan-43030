@@ -1,31 +1,31 @@
 # Goal 2 — Foundational Cybersecurity Skills
 
-## Goal and rationale
+## Why I chose this goal
 
-My cybersecurity goal is to develop foundational skills that help me build and use software responsibly. The planned focus areas include authentication, access control, common vulnerabilities, secure coding, data protection, and security considerations for AI and LLM applications. These skills matter because AI applications may handle user inputs, sensitive information, credentials, and connections to external services.
+Cybersecurity is relevant to the kind of software and AI applications I want to work on. Applications can handle user inputs, personal information, credentials, and connections to other services, so I need to understand how to protect them. My learning plan focuses on authentication, access control, common vulnerabilities, secure coding, and data protection.
 
-## Learning focus
+## What I have learned
 
-My introductory cybersecurity learning has covered core concepts including authentication, access control, vulnerabilities, secure coding, and data protection. These concepts provide a basis for recognising that security must be considered throughout development, not added only after an application is complete.
+My introductory cybersecurity learning has covered the main concepts:
 
-- **Authentication** establishes who or what is accessing a system.
-- **Access control** limits what an authenticated user or process is permitted to do.
-- **Vulnerability awareness** supports identifying weaknesses that could be exploited.
-- **Secure coding** encourages validation, safe handling of errors, and avoidance of insecure patterns.
-- **Data protection** requires careful handling, storage, and disclosure of information.
+- **Authentication:** checking who is accessing a system.
+- **Access control:** making sure users or processes can only access what they are permitted to.
+- **Vulnerabilities:** recognising weaknesses that could be exploited.
+- **Secure coding:** writing code in a way that reduces avoidable security risks.
+- **Data protection:** handling information carefully and limiting unnecessary exposure.
 
-For AI applications, these principles also apply to API keys, prompts, uploaded data, model responses, and the permissions granted to connected services.
+These concepts are also relevant to AI applications. For example, an application that connects to a model API needs to protect its credentials and handle user information responsibly.
 
 ## Reflection
 
-This learning has made cybersecurity feel directly relevant to my AI career rather than a separate specialisation. A model may perform well while the surrounding application remains vulnerable. For example, exposing credentials in source code or failing to validate inputs could undermine an otherwise useful AI system. Understanding authentication and access control also helps me think about how to restrict access to functionality and data.
+I have started to understand why security needs to be considered during development, rather than left until the end. Even if an AI model works as expected, the application around it could still have weaknesses. Exposing an API key or failing to validate inputs could create problems.
 
-My progress is at a foundational, developing level. The topics are relevant and understood conceptually, but this portfolio does not include evidence of a completed security audit, penetration test, certification, or deployed secure application. I should demonstrate the concepts in practice by building a small application, managing secrets safely, validating inputs, handling errors without disclosing sensitive details, and documenting a security review.
+I would describe my progress as foundational. I have learned the concepts, but I still need more practical experience applying them. I have not included a completed security audit, penetration test, or certification in this portfolio because these are not supported by my documented experience.
 
-## Progress assessment
+## Progress
 
-**Status: Developing; foundational learning completed, practical demonstration remains an improvement area.**
+**My progress is developing. I have a conceptual foundation, but practical implementation is an area to improve.**
 
-## Continuing professional development
+## What I want to work on next
 
-My next step is to apply a basic security checklist to an AI application. The checklist will consider secret management, authentication, access control, input validation, data minimisation, safe error handling, dependency awareness, and protection of user data. I will document the risks identified and the mitigations actually implemented, rather than claiming security based on intention alone.
+I want to apply a simple security checklist to an AI application. I would focus on protecting credentials, validating inputs, limiting access where needed, handling errors safely, and avoiding unnecessary use of personal data. I also want to document the risks I identify and the steps I take to address them.
