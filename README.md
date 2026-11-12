@@ -2,30 +2,37 @@
 
 **Unit:** UTS 43030 — Professional Practice in Computing  
 **Degree:** Bachelor of Artificial Intelligence  
-**Purpose:** Supporting portfolio for Assessment 3 (Professional Learning Plan Progress Report).
+**Career direction:** AI engineering and applied AI  
+**Portfolio snapshot:** November 2026
 
-This repository is intended to organise learning notes, project evidence, reflections, and next steps against the professional development goals established in my original learning plan. Entries should be updated with genuine activities and evidence as they are completed.
+## Portfolio purpose
 
-## Professional development goals
+This portfolio documents my progress against the professional development goals in my original Professional Learning Plan. The goals focus on responsible AI, cybersecurity, software development practices, and AI application integration. The portfolio connects my university learning, programming projects, and professional exposure as an AI Researcher to the skills I want to develop for an AI career.
 
-| Goal | Focus areas | Evidence to add |
+The portfolio is an AI-generated comparison artifact prepared alongside my manually completed work. It uses the activities and background available for this exercise and distinguishes demonstrated experience from areas that remain in development. It does not claim that a planned activity or a template is completed evidence.
+
+## Progress at a glance
+
+| Goal | Progress assessment | Supporting experience |
 |---|---|---|
-| Ethical and responsible AI | Privacy, bias, fairness, transparency, accountability, Indigenous perspectives and data sovereignty | Reflection notes, DesignR assignment connection, responsible-AI checklist |
-| Cybersecurity | Authentication, access control, secure coding, vulnerabilities, data protection, AI/LLM application security | Learning notes, security checklist, examples |
-| Software development tools | Git/GitHub workflow, testing, debugging, documentation, Docker | Repository commits, test examples, troubleshooting notes |
-| AI application integration | REST APIs, model APIs, FastAPI, authentication, error handling, testing | API project/code, request-response examples, README and test notes |
+| Ethical and responsible AI, including Indigenous Communities | Developing; strongest contextual evidence | DesignR coursework involving AI-generated Indigenous imagery and consideration of cultural and ethical risks; responsible-AI learning in Professional Practice |
+| Foundational cybersecurity | Developing | Introductory cybersecurity learning covering authentication, access control, vulnerabilities, secure coding, and data protection |
+| Software development tools | Developing | Python calculator and Java card game projects; this portfolio also demonstrates repository organisation and GitHub file/commit workflow |
+| AI application integration through REST/model APIs | Partially developed | AI Researcher work involving prompt refinement and model selection provides applied AI exposure; a documented API implementation remains a further development step |
 
-## Repository structure
+## Portfolio contents
 
-- `learning-log/` — dated entries describing activities, learning, and challenges
-- `evidence/` — goal-based evidence notes and links to relevant coursework/projects
-- `projects/` — project documentation and implementation evidence
+- [Learning log](learning-log/LEARNING_LOG_TEMPLATE.md) — consolidated reflection on learning and progress
+- [Evidence index](evidence/README.md) — goal-by-goal evidence and analysis
+- [Ethical and responsible AI](evidence/ethical-and-responsible-ai.md)
+- [Cybersecurity](evidence/cybersecurity.md)
+- [Software development tools](evidence/software-development-tools.md)
+- [AI application integration](evidence/ai-application-integration.md)
 
-## How to use this portfolio
+## Overall reflection
 
-1. Add a dated learning-log entry for each genuine learning activity.
-2. Include links, screenshots, code, or other evidence where appropriate.
-3. Record what was learned, what was challenging, and how it connects to the goal.
-4. Update the progress report and this portfolio consistently.
+My learning plan has helped me connect technical development with the responsibilities of working in AI. My programming coursework and projects provide a foundation, while my AI Researcher experience has exposed me to practical model selection and prompt improvement. The clearest area for continued development is turning knowledge into verifiable technical artifacts—especially secure API integration, systematic testing, and repeatable development workflows. My next stage is to produce small, documented projects with evidence of implementation and evaluation, while continuing to consider fairness, privacy, security, and cultural context.
 
-> **Academic integrity:** This portfolio is a record of my own learning. Placeholder sections should be completed with accurate personal experiences and evidence; do not present templates or illustrative examples as completed work.
+## Academic integrity and evidence boundaries
+
+This portfolio is the AI-generated version for comparison with my manually prepared portfolio. It is written in first person using the background information available for the task. Claims are intentionally limited to known coursework, projects, and work context. The portfolio does not fabricate certifications, completed hours, repository projects, API deployments, security audits, or personal incidents. Where a skill is described as developing, that reflects the absence of documented practical evidence in this portfolio rather than a claim that I have never encountered the topic.
