@@ -1,31 +1,35 @@
-# Goal 1 — Ethical and Responsible AI, Especially in Relation to Indigenous Communities
+# Goal 1 — Ethical and Responsible AI, with a Focus on Indigenous Communities
 
-## Goal and rationale
+## Why I chose this goal
 
-My goal is to develop a stronger understanding of ethical principles and practices in professional AI, with particular attention to Indigenous Communities. AI systems can influence how people and cultures are represented, how information is collected and used, and how decisions are made. As an aspiring AI professional, I need to consider privacy, bias, fairness, transparency, accountability, cultural sensitivity, and the social consequences of AI—not only model performance.
+I want to understand how to develop and use AI responsibly, especially when it may affect people or communities. My learning plan focuses on privacy, bias, fairness, transparency, accountability, Indigenous perspectives, data sovereignty, and cultural impacts. These are important because an AI system can produce technically correct or convincing results while still causing harm or misrepresenting people.
 
-## Relevant learning and evidence
+## Connection to my coursework
 
-### DesignR coursework: AI-generated Indigenous imagery
+### DesignR coursework and Indigenous Australian imagery
 
-My DesignR coursework focused on AI-generated imagery related to Indigenous Australians. This provides a relevant learning connection because generating culturally connected imagery raises questions about representation, context, and the risk of treating cultural identity as generic visual material. The work reinforced the importance of considering whether generated content is respectful and appropriate, and of recognising that a technically successful image may still create ethical concerns.
+My DesignR coursework involving AI-generated Indigenous Australian imagery connects directly to this goal. It raised considerations around cultural representation and whether generated content is appropriate for the context. It helped me think about how AI tools can reproduce or create representations that may not reflect the perspectives of the communities involved.
+
+I took away that cultural context matters. It is not enough to judge an image only by how realistic or visually appealing it is. I also need to consider whether the content is respectful and what assumptions may be present in the generation process.
 
 ### Professional Practice learning
 
-The ethical-AI goal in my Professional Learning Plan includes privacy, bias, fairness, transparency, accountability, Indigenous perspectives, data sovereignty, and cultural impacts. These topics establish a framework for evaluating AI systems beyond accuracy. For example, privacy requires care with data collection and use; fairness requires considering whether outcomes disadvantage groups; transparency involves communicating system capabilities and limitations; and accountability requires identifying who is responsible for decisions and impacts.
+My learning plan also includes broader responsible-AI topics. Privacy is important when systems use personal information, while fairness and bias require considering whether outcomes could disadvantage certain groups. Transparency means being clear about what an AI system can and cannot do, and accountability means that responsibility for its use should not be shifted entirely onto the model.
+
+Indigenous perspectives and data sovereignty are also important parts of this goal. I should not assume that information being accessible means it is automatically appropriate to use. Community context, cultural authority, and consent need to be considered.
 
 ## Reflection
 
-This goal has helped me understand that responsible AI is contextual. A model cannot be judged solely by whether it produces a plausible output. In the context of Indigenous Communities, it is important to recognise cultural authority, community perspectives, and data sovereignty rather than assuming that publicly available information is automatically appropriate to use. I need to approach cultural representation with humility and avoid presenting AI as a substitute for community knowledge or consent.
+This goal has made me think beyond the technical side of AI. I want to be more aware of the people affected by an AI system and the context in which it is being used. The DesignR coursework was a relevant starting point, but I know that I still need to apply these ideas more consistently in practical projects.
 
-My learning is developing rather than complete. Coursework provides relevant conceptual and reflective evidence, but further development should include applying a structured responsible-AI checklist to a concrete AI project and documenting how ethical considerations influence design decisions.
+I would like to use a responsible-AI checklist when developing future applications. This would help me consider the data, possible biases, limitations, and impacts before treating a system as ready to use.
 
-## Progress assessment
+## Progress
 
-**Status: Developing, with relevant coursework-based evidence.**
+**My progress is developing, with relevant coursework and learning as a foundation.**
 
-The DesignR coursework and professional learning topics align directly with the goal. Further evidence would be strengthened through a documented ethical assessment of an implemented AI application, including its data sources, limitations, risks, mitigation decisions, and stakeholder considerations.
+The DesignR coursework and topics in my learning plan align with this goal. I would have stronger evidence if I documented an ethical review of an implemented AI application and explained how the identified concerns affected my design choices.
 
-## Continuing professional development
+## What I want to work on next
 
-My next step is to consistently assess AI projects for privacy, bias, fairness, transparency, accountability, and cultural appropriateness. I will treat Indigenous perspectives and data sovereignty as substantive considerations rather than an optional checklist item, and I will communicate uncertainty and limitations clearly.
+I want to make ethical considerations a regular part of my AI development process. This includes thinking about privacy, fairness, transparency, and accountability, as well as taking Indigenous perspectives and data sovereignty seriously when they are relevant. I also want to be clearer about the limitations of AI outputs rather than presenting them as unquestionably reliable.
